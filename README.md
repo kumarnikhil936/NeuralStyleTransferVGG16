@@ -6,4 +6,7 @@ A technique that composes the content of an image with the style of another. The
 The content and style information are extracted using a deep convolution network. The output image is kept close to the two input images by defining optimizing the losses and applying regularization. 
 
 
+![](style_trasnfer.gif)
+
+
 Adapted from https://github.com/gsurma/style_transfer
