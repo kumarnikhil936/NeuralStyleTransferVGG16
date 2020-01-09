@@ -6,7 +6,7 @@ A technique that composes the content of an image with the style of another. The
 The content and style information are extracted using a deep convolution network. The output image is kept close to the two input images by defining optimizing the losses and applying regularization. 
 
 
-![](style_trasnfer.gif)
 
+![alt text](https://github.com/kumarnikhil936/NeuralStyleTransferVGG16/edit/master/style_trasnfer.gif "Logo Title Text 1")
 
 Adapted from https://github.com/gsurma/style_transfer
